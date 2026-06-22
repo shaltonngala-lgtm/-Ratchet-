@@ -1,0 +1,6 @@
+{
+  "name": "RatchDiva",
+  "description": "Premium immersive ratchet lyric system with offline rhythm rhyme generation, customizable vocabulary mixers, historic collab tracks, an AI ghostwriter, and a mathematical Suno v5.5 prompt generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
